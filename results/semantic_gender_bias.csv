@@ -1,0 +1,58 @@
+category,n,n_masculine,pct_masculine,ci_low,ci_high,pct_animate,significant
+Noun,12,11,91.67,64.61,98.51,50.0,False
+Occupation,48,43,89.58,77.83,95.47,58.33,True
+Stative,18,16,88.89,67.2,96.9,5.56,True
+Qualitative,41,36,87.8,74.46,94.68,7.32,True
+possession,15,13,86.67,62.12,96.26,0.0,False
+Abbreviation,65,56,86.15,75.73,92.54,15.38,True
+Relational,43,37,86.05,72.74,93.44,2.33,True
+Birds,14,12,85.71,60.06,95.99,71.43,False
+Chemical,27,23,85.19,67.52,94.08,0.0,True
+Mythological Character,27,23,85.19,67.52,94.08,59.26,True
+Person,673,568,84.4,81.46,86.94,94.06,True
+Measurement,43,36,83.72,70.03,91.88,0.0,True
+Mammal,29,24,82.76,65.45,92.4,86.21,False
+Collective Noun,24,19,79.17,59.53,90.76,8.33,False
+Edible,56,44,78.57,66.18,87.29,0.0,False
+Applied Sciences,31,24,77.42,60.19,88.6,9.68,False
+Common Noun,411,317,77.13,72.83,80.93,12.41,True
+Place,30,23,76.67,59.07,88.21,0.0,False
+Part of,76,58,76.32,65.64,84.46,0.0,False
+Event,32,24,75.0,57.89,86.75,0.0,False
+Drinkable,12,9,75.0,46.77,91.11,0.0,False
+Physical Place,297,222,74.75,69.51,79.35,0.34,True
+Title,25,18,72.0,52.42,85.72,36.0,False
+Time,38,27,71.05,55.24,83.0,0.0,False
+Physical Object,10,7,70.0,39.68,89.22,0.0,False
+Abstract,289,198,68.51,62.94,73.59,3.46,False
+property,88,60,68.18,57.87,76.98,0.0,False
+Natural Object,147,99,67.35,59.41,74.4,0.68,False
+Period,61,40,65.57,53.05,76.25,0.0,False
+Group,227,148,65.2,58.8,71.1,6.61,False
+Cognition,106,68,64.15,54.67,72.64,1.89,False
+Object,122,78,63.93,55.11,71.91,0.82,False
+Concept,27,17,62.96,44.23,78.47,3.7,False
+Social,79,49,62.03,51.0,71.93,7.59,False
+Artifact,646,400,61.92,58.11,65.58,0.46,True
+Physical State,108,66,61.11,51.69,69.77,4.63,False
+Action,502,303,60.36,56.02,64.54,0.0,True
+physical State,25,15,60.0,40.74,76.6,0.0,False
+Communication,135,80,59.26,50.83,67.18,0.0,False
+Anatomical,73,43,58.9,47.45,69.47,1.37,False
+Biological State,17,10,58.82,36.01,78.39,0.0,False
+information,12,7,58.33,31.95,80.67,0.0,False
+Natural Event,21,12,57.14,36.55,75.53,0.0,False
+Physical,335,183,54.63,49.27,59.88,0.3,True
+concept,22,12,54.55,34.66,73.08,0.0,False
+Planned Event,13,7,53.85,29.14,76.79,0.0,False
+Social State,13,7,53.85,29.14,76.79,0.0,False
+Perception,96,51,53.12,43.22,62.79,0.0,True
+Art,19,10,52.63,31.71,72.67,5.26,False
+Psychological Feature,135,70,51.85,43.49,60.11,0.0,True
+Anti-social,44,22,50.0,35.83,64.17,6.82,True
+Process,18,9,50.0,29.03,70.97,0.0,False
+Fatal Event,14,6,42.86,21.38,67.41,0.0,False
+Mental State,47,20,42.55,29.51,56.72,2.13,True
+Physiological  State,40,15,37.5,24.22,52.97,0.0,True
+Quality,84,31,36.9,27.37,47.58,0.0,True
+State,221,70,31.67,25.9,38.08,0.0,True

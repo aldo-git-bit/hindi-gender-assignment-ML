@@ -1,0 +1,60 @@
+{
+  "pearson_binary": {
+    "e_english": {
+      "e_english": 1.0,
+      "e_persian_arabic": -0.1876,
+      "e_sanskrit": -0.3038,
+      "m_compound": -0.2039,
+      "m_derived": -0.237,
+      "s_animacy": -0.0309
+    },
+    "e_persian_arabic": {
+      "e_english": -0.1876,
+      "e_persian_arabic": 1.0,
+      "e_sanskrit": -0.1707,
+      "m_compound": -0.1056,
+      "m_derived": -0.0513,
+      "s_animacy": -0.0208
+    },
+    "e_sanskrit": {
+      "e_english": -0.3038,
+      "e_persian_arabic": -0.1707,
+      "e_sanskrit": 1.0,
+      "m_compound": -0.142,
+      "m_derived": 0.2262,
+      "s_animacy": 0.0094
+    },
+    "m_compound": {
+      "e_english": -0.2039,
+      "e_persian_arabic": -0.1056,
+      "e_sanskrit": -0.142,
+      "m_compound": 1.0,
+      "m_derived": -0.1448,
+      "s_animacy": 0.038
+    },
+    "m_derived": {
+      "e_english": -0.237,
+      "e_persian_arabic": -0.0513,
+      "e_sanskrit": 0.2262,
+      "m_compound": -0.1448,
+      "m_derived": 1.0,
+      "s_animacy": 0.087
+    },
+    "s_animacy": {
+      "e_english": -0.0309,
+      "e_persian_arabic": -0.0208,
+      "e_sanskrit": 0.0094,
+      "m_compound": 0.038,
+      "m_derived": 0.087,
+      "s_animacy": 1.0
+    }
+  },
+  "cramers_v": {
+    "s_animacy ~ s_category_usas": 0.3023774043027894,
+    "s_animacy ~ s_category_wnet": 0.8629052631737674,
+    "s_category_usas ~ s_category_wnet": 0.3142978169277943
+  },
+  "wnet_categories": 108,
+  "wnet_animacy_purity": 0.7592592592592593,
+  "animacy_from_wnet_accuracy": 0.9619205298013245
+}

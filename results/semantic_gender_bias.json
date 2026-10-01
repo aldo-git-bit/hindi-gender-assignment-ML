@@ -1,0 +1,100 @@
+{
+  "baseline_pct_masculine": 66.3907284768212,
+  "animate_centric": {
+    "n_categories": 9,
+    "n_nouns": 824,
+    "pct_masculine": 84.22330097087378,
+    "categories": [
+      {
+        "category": "Noun",
+        "n": 12,
+        "n_masculine": 11,
+        "pct_masculine": 91.67,
+        "ci_low": 64.61,
+        "ci_high": 98.51,
+        "pct_animate": 50.0,
+        "significant": false
+      },
+      {
+        "category": "Occupation",
+        "n": 48,
+        "n_masculine": 43,
+        "pct_masculine": 89.58,
+        "ci_low": 77.83,
+        "ci_high": 95.47,
+        "pct_animate": 58.33,
+        "significant": true
+      },
+      {
+        "category": "Birds",
+        "n": 14,
+        "n_masculine": 12,
+        "pct_masculine": 85.71,
+        "ci_low": 60.06,
+        "ci_high": 95.99,
+        "pct_animate": 71.43,
+        "significant": false
+      },
+      {
+        "category": "Mythological Character",
+        "n": 27,
+        "n_masculine": 23,
+        "pct_masculine": 85.19,
+        "ci_low": 67.52,
+        "ci_high": 94.08,
+        "pct_animate": 59.26,
+        "significant": true
+      },
+      {
+        "category": "Person",
+        "n": 673,
+        "n_masculine": 568,
+        "pct_masculine": 84.4,
+        "ci_low": 81.46,
+        "ci_high": 86.94,
+        "pct_animate": 94.06,
+        "significant": true
+      },
+      {
+        "category": "Mammal",
+        "n": 29,
+        "n_masculine": 24,
+        "pct_masculine": 82.76,
+        "ci_low": 65.45,
+        "ci_high": 92.4,
+        "pct_animate": 86.21,
+        "significant": false
+      },
+      {
+        "category": "Tree",
+        "n": 8,
+        "n_masculine": 6,
+        "pct_masculine": 75.0,
+        "ci_low": 40.93,
+        "ci_high": 92.85,
+        "pct_animate": 75.0,
+        "significant": false
+      },
+      {
+        "category": "Animate",
+        "n": 6,
+        "n_masculine": 4,
+        "pct_masculine": 66.67,
+        "ci_low": 30.0,
+        "ci_high": 90.32,
+        "pct_animate": 83.33,
+        "significant": false
+      },
+      {
+        "category": "Flora",
+        "n": 7,
+        "n_masculine": 3,
+        "pct_masculine": 42.86,
+        "ci_low": 15.82,
+        "ci_high": 74.95,
+        "pct_animate": 71.43,
+        "significant": false
+      }
+    ]
+  }
+}

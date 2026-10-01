@@ -1,0 +1,15 @@
+The Hindi Noun Paradigm Dataset (hindi_noun_paradigms.csv) is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the data for any purpose, including
+commercially, provided that you give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+
+Please credit the dataset by citing:
+
+  John Alderete, Yogya Agrawal, Tra My Nguyen, Puja Shah, and Aanchan Mohan.
+  2026. Paradigms over Surface Cues: Inflection Class Drives Hindi Gender
+  Assignment in Expert-Annotated Noun Paradigms. In Proceedings of the 6th
+  Workshop on Multilingual Representation Learning (MRL 2026).
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode

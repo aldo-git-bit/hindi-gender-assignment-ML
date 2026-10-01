@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the paper below."
+title: "Hindi Gender Assignment: Code and Data"
+type: software
+license: MIT
+repository-code: "https://github.com/aldo-git-bit/hindi-gender-assignment-ML"
+authors:
+  - family-names: Alderete
+    given-names: John
+    email: alderete@sfu.ca
+    affiliation: Simon Fraser University
+  - family-names: Agrawal
+    given-names: Yogya
+    affiliation: Simon Fraser University
+  - family-names: Nguyen
+    given-names: Tra My
+    affiliation: Simon Fraser University
+  - family-names: Shah
+    given-names: Puja
+    affiliation: Simon Fraser University
+  - family-names: Mohan
+    given-names: Aanchan
+    affiliation: Northeastern University
+preferred-citation:
+  type: conference-paper
+  title: "Paradigms over Surface Cues: Inflection Class Drives Hindi Gender Assignment in Expert-Annotated Noun Paradigms"
+  authors:
+    - family-names: Alderete
+      given-names: John
+    - family-names: Agrawal
+      given-names: Yogya
+    - family-names: Nguyen
+      given-names: Tra My
+    - family-names: Shah
+      given-names: Puja
+    - family-names: Mohan
+      given-names: Aanchan
+  collection-title: "Proceedings of the 6th Workshop on Multilingual Representation Learning (MRL 2026)"
+  conference:
+    name: "6th Workshop on Multilingual Representation Learning (MRL 2026), co-located with EMNLP 2026"
+    city: Budapest
+    country: HU
+  year: 2026
+  notes: "To appear."
